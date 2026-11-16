@@ -1,0 +1,7 @@
+Git Installation and Configuration
+Repository Creation
+Branching and Merging
+ML Project Management
+GitHub Collaboration
+Version History
+Merge Conflict Resolution
